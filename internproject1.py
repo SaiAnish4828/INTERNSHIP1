@@ -98,3 +98,5 @@ match join:
     print("less likely to join")
   case 0 :
     print("would not join")
+    
+print("process is done")
